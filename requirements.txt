@@ -1,0 +1,14 @@
+
+requests
+pandas
+numpy
+beautifulsoup4
+matplotlib
+openai
+ccxt
+textblob
+pytube
+whisper
+gradio
+selenium
+webdriver-manager
