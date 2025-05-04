@@ -1,6 +1,0 @@
-{
-  "telegram_api_key": "YOUR_TELEGRAM_KEY",
-  "whatsapp_api_key": "YOUR_WHATSAPP_KEY",
-  "enable_auto_update": true,
-  "admin_users": ["@yourusername"]
-}
