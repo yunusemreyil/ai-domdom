@@ -1,0 +1,6 @@
+selenium
+beautifulsoup4
+openai
+requests
+python-telegram-bot
+flask
